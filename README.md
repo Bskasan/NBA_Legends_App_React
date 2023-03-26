@@ -1,70 +1,18 @@
-# Getting Started with Create React App
+# NBA LEGEDS APP -  React.js
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img width="850" alt="nba_legends" src="https://user-images.githubusercontent.com/53233822/227786365-c3c6bb60-bd3d-4222-a5ff-ea64caea3121.PNG">
 
-## Available Scripts
+## Techologies and Tools
 
-In the project directory, you can run:
+- React
+- JavaScript
+- Bootstrap (React)
+- HTML
+- CSS
 
-### `npm start`
+<a href="">Click Here to See</a>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## About Project:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Welcome to our React-based website, where we highlight the incredible careers and statistics of NBA legends. Our website features a modern and sleek design, using HTML, CSS, and Bootstrap to create a user-friendly and engaging experience for all visitors. Explore our collection of NBA legends, with detailed information on their career highlights, accolades, and statistics. Our website provides a comprehensive and organized view of each player's career, including their points, rebounds, assists, and other key statistics. In addition to player profiles, we offer various tools and features to enhance your experience. Our search bar allows you to quickly find your favorite player. Whether you're a die-hard NBA fan or simply interested in learning more about the legends of the game, our React web project is the perfect resource for you. Thank you for visiting, and we hope you enjoy exploring the careers of some of the greatest basketball players of all time.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
