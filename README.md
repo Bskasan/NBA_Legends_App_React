@@ -10,7 +10,7 @@
 - HTML
 - CSS
 
-<a href="">Click Here to See</a>
+<a href="https://nba-legends-app-react-swa.netlify.app/">Click Here to See</a>
 
 ## About Project:
 
